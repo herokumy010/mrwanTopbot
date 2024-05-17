@@ -285,6 +285,4 @@ def strip(message):
 
 
 print('bot on line')
-bot.polling()
-
-
+bot.infinity_polling()
